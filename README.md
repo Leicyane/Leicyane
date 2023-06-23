@@ -28,5 +28,5 @@
  <a href="https://www.linkedin.com/in/leiciane-pires-aluno-2550a4260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:Leicyanen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
- ![Snake animation](https://github.com/leicyane/leicyane/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Leicyane/Leicyane/blob/output/github-contribution-grid-snake.svg)
 </div>
