@@ -2,7 +2,7 @@
 
 - 💻 Tenho conhecimento em testes de software
 - 📚 Estudante de frontEnd com ênfase em javaScript
-- 📌 Cursando Analise e desenvolvimento de sistemas
+- 📌 Cursando Engenharia de Software
   
 
 <div align="start">
