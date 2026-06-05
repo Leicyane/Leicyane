@@ -4,6 +4,8 @@
 - 📚 Estudante de frontEnd com ênfase em javaScript
 - 📌Formada em Análise e Desenvolvimento de Sistemas
 - 📌 Cursando Engenharia de Software
+- 📌 Desenvolvedora Web em formação | React | Next.js | JavaScript | Prisma | MySQL
+Experiência com sistemas de gestão, APIs, dashboards e integração de dados.
   
 
 <div align="start">
