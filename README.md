@@ -1,11 +1,38 @@
-## Oii, Eu sou Leiciane Pires 
+ Olá, eu sou Leiciane Pires 👋
 
-- 💻 Tenho conhecimento em testes de software
-- 📚 Estudante de frontEnd com ênfase em javaScript
-- 📌Formada em Análise e Desenvolvimento de Sistemas
-- 📌 Cursando Engenharia de Software
-- 📌 Desenvolvedora Web em formação | React | Next.js |Typescript| JavaScript | Prisma | MySQL
-Experiência com sistemas de gestão, APIs, dashboards e integração de dados.
+Desenvolvedora Web em formação, graduada em Análise e Desenvolvimento de Sistemas e estudante de Engenharia de Software.
+
+Atuo com desenvolvimento de sistemas de gestão, dashboards, APIs, automações e integração de dados.
+
+ Tecnologias
+
+ Frontend
+React • Next.js • JavaScript • TypeScript • HTML • CSS • Material UI
+
+ Backend e dados
+Node.js • Prisma • MySQL • PostgreSQL • APIs REST
+
+Ferramentas
+Git • GitHub • GitLab • Selenium • Testes de Software
+
+ Projetos em destaque
+
+ VivaLeve
+Assistente virtual para acompanhamento de hábitos saudáveis, alimentação, exercícios, IMC, hidratação e evolução de peso.
+
+ Portal SEAGA
+Sistema de gestão para contratos, indenizatórios, alertas, indicadores e automações administrativas.
+
+ Atualmente
+
+- Desenvolvendo o VivaLeve com Next.js.
+- Aperfeiçoando React, TypeScript e arquitetura de sistemas.
+- Estudando Engenharia de Software.
+- Criando projetos para portfólio.
+
+ Contato
+
+LinkedIn | E-mail
   
 
 <div align="start">
