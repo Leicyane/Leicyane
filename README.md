@@ -82,11 +82,17 @@ Plataforma de treinamento para promotores, com trilhas de aprendizagem, question
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Leicyane&show_icons=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leicyane&layout=compact&locale=pt-br" />
-</div>
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Leicyane&show_icons=true&theme=tokyonight&hide_border=true"
+  />
 
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leicyane&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
 ---
 
 ## 📫 Contato
