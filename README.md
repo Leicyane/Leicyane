@@ -1,63 +1,104 @@
- Olá, eu sou Leiciane Pires 👋
+<h1 align="center">Olá! Eu sou Leiciane Pires 👋</h1>
 
-Desenvolvedora Web em formação, graduada em Análise e Desenvolvimento de Sistemas e estudante de Engenharia de Software.
+<h3 align="center">
+Desenvolvedora Full Stack | React | Next.js | Node.js | TypeScript
+</h3>
 
-Atuo com desenvolvimento de sistemas de gestão, dashboards, APIs, automações e integração de dados.
+<p align="center">
+  📍 Manaus, Amazonas
+</p>
 
- Tecnologias
+---
 
- Frontend
-React • Next.js • JavaScript • TypeScript • HTML • CSS • Material UI
+## 👩‍💻 Sobre mim
 
- Backend e dados
-Node.js • Prisma • MySQL • PostgreSQL • APIs REST
+Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Engenharia de Software na Estácio**.
 
-Ferramentas
-Git • GitHub • GitLab • Selenium • Testes de Software
+Tenho experiência prática no desenvolvimento e manutenção de sistemas web, atuando com criação de interfaces, desenvolvimento de APIs, autenticação de usuários, integração com bancos de dados e implementação de funcionalidades voltadas à gestão pública.
 
- Projetos em destaque
+Atualmente, atuo como **Estagiária de Desenvolvimento de Sistemas na SEAGA**, participando do desenvolvimento de soluções utilizadas na área da saúde pública.
 
- VivaLeve
-Assistente virtual para acompanhamento de hábitos saudáveis, alimentação, exercícios, IMC, hidratação e evolução de peso.
+Busco oportunidades para crescer como desenvolvedora, contribuir com projetos reais e continuar aprimorando meus conhecimentos em desenvolvimento de software.
 
- Portal SEAGA
-Sistema de gestão para contratos, indenizatórios, alertas, indicadores e automações administrativas.
+---
 
- Atualmente
+## 🚀 Tecnologias e ferramentas
 
-- Desenvolvendo o VivaLeve com Next.js.
-- Aperfeiçoando React, TypeScript e arquitetura de sistemas.
-- Estudando Engenharia de Software.
-- Criando projetos para portfólio.
+### Front-end
 
- Contato
-
-LinkedIn | E-mail
-  
-
-<div align="start">
-  <a href="https://github.com/Leicyane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leicyane&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leicyane&layout=compact&langs_count=7&theme=synthwave"/>
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,materialui" />
 </div>
 
-<div style="display: inline_block"><br>
-  
-  <img height="32" width="32" src="https://cdn.simpleicons.org/selenium/43B02A" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/jest/C21325" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap/7952B3" />
-  <img alt="img-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img alt="img-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="img-img-img-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="img-img-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+### Back-end e banco de dados
 
-
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,mysql" />
 </div>
 
-<div> 
-  </br>
- <a href="https://www.linkedin.com/in/leiciane-pires-aluno-2550a4260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:Leicyanen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+### Ferramentas
 
-![Snake animation](https://github.com/Leicyane/Leicyane/blob/output/github-contribution-grid-snake.svg)
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode" />
 </div>
+
+---
+
+## 💼 Experiência
+
+### Estagiária de Desenvolvimento de Sistemas — SEAGA
+
+* Desenvolvimento e manutenção de aplicações web.
+* Criação de interfaces utilizando React, Next.js e Material UI.
+* Desenvolvimento de APIs e integração com bancos de dados.
+* Implementação de autenticação e controle de acesso por perfis.
+* Participação no desenvolvimento de módulos administrativos.
+* Versionamento de código utilizando Git e GitLab.
+
+---
+
+## 📌 Projetos em desenvolvimento
+
+### 🏛️ Portal SEAGA
+
+Sistema voltado à gestão pública, com módulos de contratos, reuniões, agenda institucional, indicadores, transparência, autenticação e controle de acesso.
+
+**Tecnologias:** Next.js, React, JavaScript, Material UI, Node.js, Prisma, PostgreSQL e MySQL.
+
+### 🎓 Academia do Promotor
+
+Plataforma de treinamento para promotores, com trilhas de aprendizagem, questionários, sistema de XP, ranking, autenticação e gerenciamento de usuários.
+
+**Tecnologias:** Next.js, React, TypeScript, Material UI, Tailwind CSS, Prisma e PostgreSQL.
+
+---
+
+## 🎓 Formação acadêmica
+
+* **Análise e Desenvolvimento de Sistemas** — Concluído.
+* **Engenharia de Software — Estácio** — Cursando.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Leicyane&show_icons=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leicyane&layout=compact&locale=pt-br" />
+</div>
+
+---
+
+## 📫 Contato
+
+<div>
+  <a href="mailto:Leicyanen@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  Obrigada por visitar meu perfil! 🚀
+</p>
