@@ -80,20 +80,16 @@ Plataforma de treinamento para promotores, com trilhas de aprendizagem, question
 
 ---
 
-## 📊 Estatísticas do GitHub
+ 📌 Principais conhecimentos
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Leicyane&show_icons=true&theme=tokyonight&hide_border=true"
-  />
+- Desenvolvimento de aplicações Full Stack
+- Criação de interfaces com React e Next.js
+- Desenvolvimento de APIs REST
+- Integração com PostgreSQL e MySQL
+- Autenticação e controle de acesso
+- Versionamento com Git, GitHub e GitLab
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leicyane&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
----
+
 
 ## 📫 Contato
 
